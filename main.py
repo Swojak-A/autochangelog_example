@@ -4,6 +4,6 @@ from time import sleep
 
 if __name__ == "__main__":
     while True:
-        print(f"it's {datetime.now()}")
+        print(f"it is {datetime.now() now}")
         sleep(1)
 
